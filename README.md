@@ -33,7 +33,8 @@ Step 1: Safety Check (instant)                  Step 2: Best Match (AI-powered)
       Hard rules. No exceptions.                    Informed recommendations.
 ```
 
-**Step 1** runs in microseconds and is absolute — no family with an expired license or full capacity will ever be recommended, period. **Step 2** uses a privacy-safe AI model to understand nuance: a child who loves animals might score higher with a rural family that has horses, or a teen preparing for independence might match better with foster parents experienced in life-skills mentoring.
+**Step 1** runs in microseconds and is absolute — no family with an expired license or full capacity will ever be recommended, period. 
+<br> **Step 2** uses a privacy-safe AI model to understand nuance: a child who loves animals might score higher with a rural family that has horses, or a teen preparing for independence might match better with foster parents experienced in life-skills mentoring.
 
 ---
 
