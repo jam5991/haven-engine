@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "CH-166E58",
+    "name_redacted": "CHILD_CH-166E58",
+    "age": 16,
+    "date_of_birth": "2010-05-19",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-1164B0",
+    "name_redacted": "CHILD_CH-1164B0",
+    "age": 0,
+    "date_of_birth": "2026-03-07",
+    "trauma_flags": [
+      "substance_exposure"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": null,
+    "county": "Santa Clara",
+    "state": "CA"
+  },
+  {
+    "id": "CH-51A04D",
+    "name_redacted": "CHILD_CH-51A04D",
+    "age": 2,
+    "date_of_birth": "2024-04-18",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-5961B2",
+    "name_redacted": "CHILD_CH-5961B2",
+    "age": 1,
+    "date_of_birth": "2025-10-26",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A79D98",
+    "name_redacted": "CHILD_CH-A79D98",
+    "age": 0,
+    "date_of_birth": "2026-02-21",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure",
+      "medical_trauma"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Kern",
+    "state": "CA"
+  },
+  {
+    "id": "CH-0DFA2B",
+    "name_redacted": "CHILD_CH-0DFA2B",
+    "age": 16,
+    "date_of_birth": "2010-03-02",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-1BA912",
+    "name_redacted": "CHILD_CH-1BA912",
+    "age": 9,
+    "date_of_birth": "2017-09-26",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-EE9F76",
+    "name_redacted": "CHILD_CH-EE9F76",
+    "age": 16,
+    "date_of_birth": "2010-05-04",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-4684EA",
+    "name_redacted": "CHILD_CH-4684EA",
+    "age": 9,
+    "date_of_birth": "2017-03-27",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Stanislaus",
+    "state": "CA"
+  },
+  {
+    "id": "CH-12C03F",
+    "name_redacted": "CHILD_CH-12C03F",
+    "age": 7,
+    "date_of_birth": "2019-11-22",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-370025",
+    "name_redacted": "CHILD_CH-370025",
+    "age": 5,
+    "date_of_birth": "2021-08-24",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-4395F2",
+    "name_redacted": "CHILD_CH-4395F2",
+    "age": 12,
+    "date_of_birth": "2014-10-09",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": null,
+    "county": "San Bernardino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-6EC6C4",
+    "name_redacted": "CHILD_CH-6EC6C4",
+    "age": 0,
+    "date_of_birth": "2026-07-09",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-3EA9",
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-AF5C92",
+    "name_redacted": "CHILD_CH-AF5C92",
+    "age": 4,
+    "date_of_birth": "2022-02-16",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-613931",
+    "name_redacted": "CHILD_CH-613931",
+    "age": 1,
+    "date_of_birth": "2025-07-20",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-3EA9",
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-E82FF2",
+    "name_redacted": "CHILD_CH-E82FF2",
+    "age": 6,
+    "date_of_birth": "2020-12-22",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-5ECF50",
+    "name_redacted": "CHILD_CH-5ECF50",
+    "age": 6,
+    "date_of_birth": "2020-01-15",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": "SIB-C0A3",
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-5B1961",
+    "name_redacted": "CHILD_CH-5B1961",
+    "age": 17,
+    "date_of_birth": "2009-03-24",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-49D9A2",
+    "name_redacted": "CHILD_CH-49D9A2",
+    "age": 0,
+    "date_of_birth": "2026-09-16",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": "SIB-B314",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-4C5F95",
+    "name_redacted": "CHILD_CH-4C5F95",
+    "age": 13,
+    "date_of_birth": "2013-12-15",
+    "trauma_flags": [
+      "neglect",
+      "medical_trauma"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-2A4271",
+    "name_redacted": "CHILD_CH-2A4271",
+    "age": 9,
+    "date_of_birth": "2017-05-26",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-F9210A",
+    "name_redacted": "CHILD_CH-F9210A",
+    "age": 4,
+    "date_of_birth": "2022-01-17",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-93FA6F",
+    "name_redacted": "CHILD_CH-93FA6F",
+    "age": 8,
+    "date_of_birth": "2018-08-16",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "San Bernardino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-D113F4",
+    "name_redacted": "CHILD_CH-D113F4",
+    "age": 1,
+    "date_of_birth": "2025-12-20",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Orange",
+    "state": "CA"
+  },
+  {
+    "id": "CH-436FEF",
+    "name_redacted": "CHILD_CH-436FEF",
+    "age": 2,
+    "date_of_birth": "2024-07-09",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Mendocino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-E88AF5",
+    "name_redacted": "CHILD_CH-E88AF5",
+    "age": 17,
+    "date_of_birth": "2009-05-23",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-7C85",
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-0BCFE4",
+    "name_redacted": "CHILD_CH-0BCFE4",
+    "age": 8,
+    "date_of_birth": "2018-12-15",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-437884",
+    "name_redacted": "CHILD_CH-437884",
+    "age": 13,
+    "date_of_birth": "2013-04-15",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A79582",
+    "name_redacted": "CHILD_CH-A79582",
+    "age": 9,
+    "date_of_birth": "2017-11-13",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-1AA625",
+    "name_redacted": "CHILD_CH-1AA625",
+    "age": 16,
+    "date_of_birth": "2010-10-20",
+    "trauma_flags": [
+      "emotional_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-881C",
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-861757",
+    "name_redacted": "CHILD_CH-861757",
+    "age": 3,
+    "date_of_birth": "2023-12-09",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-62CA",
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-883B88",
+    "name_redacted": "CHILD_CH-883B88",
+    "age": 15,
+    "date_of_birth": "2011-07-05",
+    "trauma_flags": [
+      "neglect",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-881C",
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-6ECF6C",
+    "name_redacted": "CHILD_CH-6ECF6C",
+    "age": 4,
+    "date_of_birth": "2022-01-04",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Stanislaus",
+    "state": "CA"
+  },
+  {
+    "id": "CH-39BCC3",
+    "name_redacted": "CHILD_CH-39BCC3",
+    "age": 2,
+    "date_of_birth": "2024-02-02",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A40B95",
+    "name_redacted": "CHILD_CH-A40B95",
+    "age": 5,
+    "date_of_birth": "2021-09-25",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-EA977C",
+    "name_redacted": "CHILD_CH-EA977C",
+    "age": 9,
+    "date_of_birth": "2017-01-17",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse",
+      "substance_exposure"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A59CFB",
+    "name_redacted": "CHILD_CH-A59CFB",
+    "age": 6,
+    "date_of_birth": "2020-09-15",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-F79154",
+    "name_redacted": "CHILD_CH-F79154",
+    "age": 13,
+    "date_of_birth": "2013-11-03",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A19483",
+    "name_redacted": "CHILD_CH-A19483",
+    "age": 4,
+    "date_of_birth": "2022-02-26",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-D3B8",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-8926CE",
+    "name_redacted": "CHILD_CH-8926CE",
+    "age": 3,
+    "date_of_birth": "2023-03-25",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Tulare",
+    "state": "CA"
+  },
+  {
+    "id": "CH-150243",
+    "name_redacted": "CHILD_CH-150243",
+    "age": 2,
+    "date_of_birth": "2024-12-09",
+    "trauma_flags": [
+      "neglect",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "San Joaquin",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A49B86",
+    "name_redacted": "CHILD_CH-A49B86",
+    "age": 13,
+    "date_of_birth": "2013-08-28",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-7C85",
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-E92C83",
+    "name_redacted": "CHILD_CH-E92C83",
+    "age": 6,
+    "date_of_birth": "2020-06-24",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-90E210",
+    "name_redacted": "CHILD_CH-90E210",
+    "age": 12,
+    "date_of_birth": "2014-10-10",
+    "trauma_flags": [
+      "neglect",
+      "domestic_violence"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-CEB799",
+    "name_redacted": "CHILD_CH-CEB799",
+    "age": 16,
+    "date_of_birth": "2010-08-11",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-2A1104",
+    "name_redacted": "CHILD_CH-2A1104",
+    "age": 5,
+    "date_of_birth": "2021-10-28",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-5E31",
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-F51AB8",
+    "name_redacted": "CHILD_CH-F51AB8",
+    "age": 13,
+    "date_of_birth": "2013-09-18",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-C187B0",
+    "name_redacted": "CHILD_CH-C187B0",
+    "age": 7,
+    "date_of_birth": "2019-05-15",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Kern",
+    "state": "CA"
+  },
+  {
+    "id": "CH-57A600",
+    "name_redacted": "CHILD_CH-57A600",
+    "age": 2,
+    "date_of_birth": "2024-05-20",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Bernardino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-44CB81",
+    "name_redacted": "CHILD_CH-44CB81",
+    "age": 13,
+    "date_of_birth": "2013-08-03",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "San Bernardino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-6EF779",
+    "name_redacted": "CHILD_CH-6EF779",
+    "age": 9,
+    "date_of_birth": "2017-03-14",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-E7FA",
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-F88FFE",
+    "name_redacted": "CHILD_CH-F88FFE",
+    "age": 5,
+    "date_of_birth": "2021-09-23",
+    "trauma_flags": [
+      "neglect",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-3E6022",
+    "name_redacted": "CHILD_CH-3E6022",
+    "age": 11,
+    "date_of_birth": "2015-10-11",
+    "trauma_flags": [
+      "neglect",
+      "domestic_violence"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Joaquin",
+    "state": "CA"
+  },
+  {
+    "id": "CH-E34A00",
+    "name_redacted": "CHILD_CH-E34A00",
+    "age": 0,
+    "date_of_birth": "2026-04-09",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Orange",
+    "state": "CA"
+  },
+  {
+    "id": "CH-093FD3",
+    "name_redacted": "CHILD_CH-093FD3",
+    "age": 1,
+    "date_of_birth": "2025-07-05",
+    "trauma_flags": [
+      "physical_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-4FAC73",
+    "name_redacted": "CHILD_CH-4FAC73",
+    "age": 2,
+    "date_of_birth": "2024-03-23",
+    "trauma_flags": [
+      "neglect",
+      "abandonment_loss"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": "SIB-3A9C",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-41FAD3",
+    "name_redacted": "CHILD_CH-41FAD3",
+    "age": 9,
+    "date_of_birth": "2017-11-21",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A52350",
+    "name_redacted": "CHILD_CH-A52350",
+    "age": 1,
+    "date_of_birth": "2025-05-13",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": null,
+    "county": "Fresno",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A9FA81",
+    "name_redacted": "CHILD_CH-A9FA81",
+    "age": 10,
+    "date_of_birth": "2016-08-19",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-022823",
+    "name_redacted": "CHILD_CH-022823",
+    "age": 4,
+    "date_of_birth": "2022-10-24",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-5153F0",
+    "name_redacted": "CHILD_CH-5153F0",
+    "age": 8,
+    "date_of_birth": "2018-05-15",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-56C9",
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-7A4884",
+    "name_redacted": "CHILD_CH-7A4884",
+    "age": 3,
+    "date_of_birth": "2023-03-12",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-C0A3",
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-0490D5",
+    "name_redacted": "CHILD_CH-0490D5",
+    "age": 10,
+    "date_of_birth": "2016-01-09",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-79E358",
+    "name_redacted": "CHILD_CH-79E358",
+    "age": 4,
+    "date_of_birth": "2022-12-24",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-F781",
+    "county": "Santa Clara",
+    "state": "CA"
+  },
+  {
+    "id": "CH-3B2E8F",
+    "name_redacted": "CHILD_CH-3B2E8F",
+    "age": 17,
+    "date_of_birth": "2009-06-16",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse",
+      "substance_exposure"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": "SIB-881C",
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-651399",
+    "name_redacted": "CHILD_CH-651399",
+    "age": 4,
+    "date_of_birth": "2022-03-25",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-DF068F",
+    "name_redacted": "CHILD_CH-DF068F",
+    "age": 1,
+    "date_of_birth": "2025-05-19",
+    "trauma_flags": [
+      "emotional_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B3172D",
+    "name_redacted": "CHILD_CH-B3172D",
+    "age": 6,
+    "date_of_birth": "2020-12-21",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-FB5BE0",
+    "name_redacted": "CHILD_CH-FB5BE0",
+    "age": 13,
+    "date_of_birth": "2013-07-18",
+    "trauma_flags": [
+      "neglect",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-D572F6",
+    "name_redacted": "CHILD_CH-D572F6",
+    "age": 9,
+    "date_of_birth": "2017-02-07",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B67766",
+    "name_redacted": "CHILD_CH-B67766",
+    "age": 4,
+    "date_of_birth": "2022-08-09",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-04C184",
+    "name_redacted": "CHILD_CH-04C184",
+    "age": 1,
+    "date_of_birth": "2025-01-06",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-28ED",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-93A92E",
+    "name_redacted": "CHILD_CH-93A92E",
+    "age": 4,
+    "date_of_birth": "2022-03-07",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "San Bernardino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-537FB7",
+    "name_redacted": "CHILD_CH-537FB7",
+    "age": 4,
+    "date_of_birth": "2022-09-10",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse",
+      "abandonment_loss"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-668654",
+    "name_redacted": "CHILD_CH-668654",
+    "age": 17,
+    "date_of_birth": "2009-05-24",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-881C",
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-2A421F",
+    "name_redacted": "CHILD_CH-2A421F",
+    "age": 2,
+    "date_of_birth": "2024-09-27",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-92C094",
+    "name_redacted": "CHILD_CH-92C094",
+    "age": 8,
+    "date_of_birth": "2018-11-03",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-F781",
+    "county": "Santa Clara",
+    "state": "CA"
+  },
+  {
+    "id": "CH-414ED6",
+    "name_redacted": "CHILD_CH-414ED6",
+    "age": 9,
+    "date_of_birth": "2017-04-02",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Joaquin",
+    "state": "CA"
+  },
+  {
+    "id": "CH-9FC421",
+    "name_redacted": "CHILD_CH-9FC421",
+    "age": 11,
+    "date_of_birth": "2015-02-06",
+    "trauma_flags": [
+      "physical_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-38819F",
+    "name_redacted": "CHILD_CH-38819F",
+    "age": 4,
+    "date_of_birth": "2022-11-06",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-B314",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-5531D1",
+    "name_redacted": "CHILD_CH-5531D1",
+    "age": 12,
+    "date_of_birth": "2014-08-01",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-B0FD",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B1E641",
+    "name_redacted": "CHILD_CH-B1E641",
+    "age": 13,
+    "date_of_birth": "2013-10-07",
+    "trauma_flags": [
+      "physical_abuse",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-8CDBDC",
+    "name_redacted": "CHILD_CH-8CDBDC",
+    "age": 6,
+    "date_of_birth": "2020-04-16",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-33A789",
+    "name_redacted": "CHILD_CH-33A789",
+    "age": 7,
+    "date_of_birth": "2019-02-13",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-390A",
+    "county": "Santa Clara",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B519CC",
+    "name_redacted": "CHILD_CH-B519CC",
+    "age": 4,
+    "date_of_birth": "2022-06-21",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Alameda",
+    "state": "CA"
+  },
+  {
+    "id": "CH-55690B",
+    "name_redacted": "CHILD_CH-55690B",
+    "age": 14,
+    "date_of_birth": "2012-09-20",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Orange",
+    "state": "CA"
+  },
+  {
+    "id": "CH-5E5A0B",
+    "name_redacted": "CHILD_CH-5E5A0B",
+    "age": 5,
+    "date_of_birth": "2021-06-23",
+    "trauma_flags": [
+      "domestic_violence",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A6653B",
+    "name_redacted": "CHILD_CH-A6653B",
+    "age": 16,
+    "date_of_birth": "2010-07-27",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-BAF821",
+    "name_redacted": "CHILD_CH-BAF821",
+    "age": 4,
+    "date_of_birth": "2022-10-27",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Alameda",
+    "state": "CA"
+  },
+  {
+    "id": "CH-12852F",
+    "name_redacted": "CHILD_CH-12852F",
+    "age": 7,
+    "date_of_birth": "2019-10-10",
+    "trauma_flags": [
+      "physical_abuse",
+      "substance_exposure"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-28ED",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-7C1D84",
+    "name_redacted": "CHILD_CH-7C1D84",
+    "age": 3,
+    "date_of_birth": "2023-04-03",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-6EE8A0",
+    "name_redacted": "CHILD_CH-6EE8A0",
+    "age": 6,
+    "date_of_birth": "2020-11-08",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Tulare",
+    "state": "CA"
+  },
+  {
+    "id": "CH-909714",
+    "name_redacted": "CHILD_CH-909714",
+    "age": 10,
+    "date_of_birth": "2016-08-08",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-50F3",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-23E7CD",
+    "name_redacted": "CHILD_CH-23E7CD",
+    "age": 9,
+    "date_of_birth": "2017-07-14",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Stanislaus",
+    "state": "CA"
+  },
+  {
+    "id": "CH-105C7F",
+    "name_redacted": "CHILD_CH-105C7F",
+    "age": 4,
+    "date_of_birth": "2022-07-15",
+    "trauma_flags": [
+      "neglect",
+      "domestic_violence",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-56C9",
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-98A3A9",
+    "name_redacted": "CHILD_CH-98A3A9",
+    "age": 13,
+    "date_of_birth": "2013-04-24",
+    "trauma_flags": [
+      "physical_abuse",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-8644DB",
+    "name_redacted": "CHILD_CH-8644DB",
+    "age": 16,
+    "date_of_birth": "2010-02-28",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Alameda",
+    "state": "CA"
+  },
+  {
+    "id": "CH-1B7334",
+    "name_redacted": "CHILD_CH-1B7334",
+    "age": 16,
+    "date_of_birth": "2010-02-03",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-7C85",
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B58534",
+    "name_redacted": "CHILD_CH-B58534",
+    "age": 2,
+    "date_of_birth": "2024-09-27",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-57D0BC",
+    "name_redacted": "CHILD_CH-57D0BC",
+    "age": 16,
+    "date_of_birth": "2010-04-18",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-96E637",
+    "name_redacted": "CHILD_CH-96E637",
+    "age": 16,
+    "date_of_birth": "2010-04-03",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-94FC3D",
+    "name_redacted": "CHILD_CH-94FC3D",
+    "age": 4,
+    "date_of_birth": "2022-07-20",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-D3B8",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-DBFC50",
+    "name_redacted": "CHILD_CH-DBFC50",
+    "age": 3,
+    "date_of_birth": "2023-07-05",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Kern",
+    "state": "CA"
+  },
+  {
+    "id": "CH-2DD190",
+    "name_redacted": "CHILD_CH-2DD190",
+    "age": 17,
+    "date_of_birth": "2009-05-01",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-1AFEDB",
+    "name_redacted": "CHILD_CH-1AFEDB",
+    "age": 10,
+    "date_of_birth": "2016-04-07",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-42FBF6",
+    "name_redacted": "CHILD_CH-42FBF6",
+    "age": 1,
+    "date_of_birth": "2025-03-26",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-0B8236",
+    "name_redacted": "CHILD_CH-0B8236",
+    "age": 1,
+    "date_of_birth": "2025-05-22",
+    "trauma_flags": [
+      "substance_exposure"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-91941B",
+    "name_redacted": "CHILD_CH-91941B",
+    "age": 4,
+    "date_of_birth": "2022-09-08",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-12C4A1",
+    "name_redacted": "CHILD_CH-12C4A1",
+    "age": 13,
+    "date_of_birth": "2013-11-17",
+    "trauma_flags": [
+      "domestic_violence"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-4B10",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-5C37ED",
+    "name_redacted": "CHILD_CH-5C37ED",
+    "age": 8,
+    "date_of_birth": "2018-11-01",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-50F3",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-4F207F",
+    "name_redacted": "CHILD_CH-4F207F",
+    "age": 3,
+    "date_of_birth": "2023-07-13",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Contra Costa",
+    "state": "CA"
+  },
+  {
+    "id": "CH-6EF8AA",
+    "name_redacted": "CHILD_CH-6EF8AA",
+    "age": 10,
+    "date_of_birth": "2016-07-28",
+    "trauma_flags": [
+      "neglect",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-1B6801",
+    "name_redacted": "CHILD_CH-1B6801",
+    "age": 14,
+    "date_of_birth": "2012-07-14",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-F65C16",
+    "name_redacted": "CHILD_CH-F65C16",
+    "age": 1,
+    "date_of_birth": "2025-07-13",
+    "trauma_flags": [
+      "substance_exposure"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-DF709C",
+    "name_redacted": "CHILD_CH-DF709C",
+    "age": 17,
+    "date_of_birth": "2009-05-13",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-564FF5",
+    "name_redacted": "CHILD_CH-564FF5",
+    "age": 5,
+    "date_of_birth": "2021-08-12",
+    "trauma_flags": [
+      "neglect",
+      "domestic_violence",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-62CA",
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-9EE049",
+    "name_redacted": "CHILD_CH-9EE049",
+    "age": 8,
+    "date_of_birth": "2018-03-10",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B3910F",
+    "name_redacted": "CHILD_CH-B3910F",
+    "age": 5,
+    "date_of_birth": "2021-03-21",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-0AF60B",
+    "name_redacted": "CHILD_CH-0AF60B",
+    "age": 3,
+    "date_of_birth": "2023-04-07",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-CF48D5",
+    "name_redacted": "CHILD_CH-CF48D5",
+    "age": 2,
+    "date_of_birth": "2024-12-18",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "San Bernardino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-2B265E",
+    "name_redacted": "CHILD_CH-2B265E",
+    "age": 13,
+    "date_of_birth": "2013-10-18",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-AC1BCB",
+    "name_redacted": "CHILD_CH-AC1BCB",
+    "age": 3,
+    "date_of_birth": "2023-04-17",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-7939",
+    "county": "Kern",
+    "state": "CA"
+  },
+  {
+    "id": "CH-BEE20F",
+    "name_redacted": "CHILD_CH-BEE20F",
+    "age": 16,
+    "date_of_birth": "2010-07-08",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-47C4C2",
+    "name_redacted": "CHILD_CH-47C4C2",
+    "age": 4,
+    "date_of_birth": "2022-06-07",
+    "trauma_flags": [
+      "neglect",
+      "abandonment_loss",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Fresno",
+    "state": "CA"
+  },
+  {
+    "id": "CH-0FE7B1",
+    "name_redacted": "CHILD_CH-0FE7B1",
+    "age": 1,
+    "date_of_birth": "2025-03-28",
+    "trauma_flags": [
+      "sexual_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-93698A",
+    "name_redacted": "CHILD_CH-93698A",
+    "age": 13,
+    "date_of_birth": "2013-09-25",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Orange",
+    "state": "CA"
+  },
+  {
+    "id": "CH-396CA2",
+    "name_redacted": "CHILD_CH-396CA2",
+    "age": 8,
+    "date_of_birth": "2018-12-14",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-F781",
+    "county": "Santa Clara",
+    "state": "CA"
+  },
+  {
+    "id": "CH-76E3F6",
+    "name_redacted": "CHILD_CH-76E3F6",
+    "age": 12,
+    "date_of_birth": "2014-12-14",
+    "trauma_flags": [
+      "physical_abuse",
+      "domestic_violence"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Tulare",
+    "state": "CA"
+  },
+  {
+    "id": "CH-76C7E3",
+    "name_redacted": "CHILD_CH-76C7E3",
+    "age": 13,
+    "date_of_birth": "2013-07-14",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-1E2AF9",
+    "name_redacted": "CHILD_CH-1E2AF9",
+    "age": 4,
+    "date_of_birth": "2022-08-23",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-6D21EA",
+    "name_redacted": "CHILD_CH-6D21EA",
+    "age": 12,
+    "date_of_birth": "2014-04-06",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": "SIB-E7FA",
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-3F86B6",
+    "name_redacted": "CHILD_CH-3F86B6",
+    "age": 5,
+    "date_of_birth": "2021-09-12",
+    "trauma_flags": [
+      "emotional_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Tulare",
+    "state": "CA"
+  },
+  {
+    "id": "CH-EBA2A3",
+    "name_redacted": "CHILD_CH-EBA2A3",
+    "age": 17,
+    "date_of_birth": "2009-01-10",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "San Bernardino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-AB416E",
+    "name_redacted": "CHILD_CH-AB416E",
+    "age": 13,
+    "date_of_birth": "2013-03-23",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "San Bernardino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-E440B1",
+    "name_redacted": "CHILD_CH-E440B1",
+    "age": 17,
+    "date_of_birth": "2009-04-22",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-763F",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B57AFB",
+    "name_redacted": "CHILD_CH-B57AFB",
+    "age": 12,
+    "date_of_birth": "2014-02-04",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-EA55",
+    "county": "Kern",
+    "state": "CA"
+  },
+  {
+    "id": "CH-C47E31",
+    "name_redacted": "CHILD_CH-C47E31",
+    "age": 5,
+    "date_of_birth": "2021-06-14",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure",
+      "medical_trauma"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-E757EA",
+    "name_redacted": "CHILD_CH-E757EA",
+    "age": 2,
+    "date_of_birth": "2024-01-04",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-448B2B",
+    "name_redacted": "CHILD_CH-448B2B",
+    "age": 14,
+    "date_of_birth": "2012-06-07",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-B0FD",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-5E5E48",
+    "name_redacted": "CHILD_CH-5E5E48",
+    "age": 5,
+    "date_of_birth": "2021-05-19",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-F781",
+    "county": "Santa Clara",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A7ABEE",
+    "name_redacted": "CHILD_CH-A7ABEE",
+    "age": 14,
+    "date_of_birth": "2012-05-03",
+    "trauma_flags": [
+      "neglect",
+      "domestic_violence",
+      "abandonment_loss"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-461C98",
+    "name_redacted": "CHILD_CH-461C98",
+    "age": 17,
+    "date_of_birth": "2009-11-27",
+    "trauma_flags": [
+      "neglect",
+      "abandonment_loss"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Fresno",
+    "state": "CA"
+  },
+  {
+    "id": "CH-BF747B",
+    "name_redacted": "CHILD_CH-BF747B",
+    "age": 11,
+    "date_of_birth": "2015-11-22",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-F18C71",
+    "name_redacted": "CHILD_CH-F18C71",
+    "age": 7,
+    "date_of_birth": "2019-03-15",
+    "trauma_flags": [
+      "physical_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-5E31",
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-AF2859",
+    "name_redacted": "CHILD_CH-AF2859",
+    "age": 15,
+    "date_of_birth": "2011-07-16",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-74D556",
+    "name_redacted": "CHILD_CH-74D556",
+    "age": 10,
+    "date_of_birth": "2016-01-11",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-41BB74",
+    "name_redacted": "CHILD_CH-41BB74",
+    "age": 0,
+    "date_of_birth": "2026-02-22",
+    "trauma_flags": [
+      "emotional_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-7939",
+    "county": "Kern",
+    "state": "CA"
+  },
+  {
+    "id": "CH-6B2FAD",
+    "name_redacted": "CHILD_CH-6B2FAD",
+    "age": 2,
+    "date_of_birth": "2024-10-16",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-3F1F8A",
+    "name_redacted": "CHILD_CH-3F1F8A",
+    "age": 6,
+    "date_of_birth": "2020-08-23",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-EA55",
+    "county": "Kern",
+    "state": "CA"
+  },
+  {
+    "id": "CH-AD59A9",
+    "name_redacted": "CHILD_CH-AD59A9",
+    "age": 17,
+    "date_of_birth": "2009-04-19",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-58AEF2",
+    "name_redacted": "CHILD_CH-58AEF2",
+    "age": 9,
+    "date_of_birth": "2017-11-24",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-8A06",
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A45865",
+    "name_redacted": "CHILD_CH-A45865",
+    "age": 8,
+    "date_of_birth": "2018-07-07",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-7EF7A1",
+    "name_redacted": "CHILD_CH-7EF7A1",
+    "age": 3,
+    "date_of_birth": "2023-01-25",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Orange",
+    "state": "CA"
+  },
+  {
+    "id": "CH-1BE7A3",
+    "name_redacted": "CHILD_CH-1BE7A3",
+    "age": 3,
+    "date_of_birth": "2023-08-15",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-C0A3",
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-C492B0",
+    "name_redacted": "CHILD_CH-C492B0",
+    "age": 11,
+    "date_of_birth": "2015-05-03",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-ACBA50",
+    "name_redacted": "CHILD_CH-ACBA50",
+    "age": 7,
+    "date_of_birth": "2019-05-16",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "San Bernardino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-DC0950",
+    "name_redacted": "CHILD_CH-DC0950",
+    "age": 14,
+    "date_of_birth": "2012-11-14",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-827E",
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-9FB046",
+    "name_redacted": "CHILD_CH-9FB046",
+    "age": 5,
+    "date_of_birth": "2021-03-08",
+    "trauma_flags": [
+      "substance_exposure"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-A0F9F4",
+    "name_redacted": "CHILD_CH-A0F9F4",
+    "age": 0,
+    "date_of_birth": "2026-04-09",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-F8BC6E",
+    "name_redacted": "CHILD_CH-F8BC6E",
+    "age": 4,
+    "date_of_birth": "2022-01-28",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B0725D",
+    "name_redacted": "CHILD_CH-B0725D",
+    "age": 5,
+    "date_of_birth": "2021-11-20",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-48093E",
+    "name_redacted": "CHILD_CH-48093E",
+    "age": 12,
+    "date_of_birth": "2014-03-10",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-F211E2",
+    "name_redacted": "CHILD_CH-F211E2",
+    "age": 5,
+    "date_of_birth": "2021-12-09",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-7C55B0",
+    "name_redacted": "CHILD_CH-7C55B0",
+    "age": 3,
+    "date_of_birth": "2023-11-26",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-390A",
+    "county": "Santa Clara",
+    "state": "CA"
+  },
+  {
+    "id": "CH-84CF56",
+    "name_redacted": "CHILD_CH-84CF56",
+    "age": 12,
+    "date_of_birth": "2014-06-03",
+    "trauma_flags": [
+      "neglect",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-58E61A",
+    "name_redacted": "CHILD_CH-58E61A",
+    "age": 15,
+    "date_of_birth": "2011-09-11",
+    "trauma_flags": [
+      "neglect",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-53437A",
+    "name_redacted": "CHILD_CH-53437A",
+    "age": 4,
+    "date_of_birth": "2022-03-13",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-EA3571",
+    "name_redacted": "CHILD_CH-EA3571",
+    "age": 7,
+    "date_of_birth": "2019-05-27",
+    "trauma_flags": [
+      "neglect",
+      "abandonment_loss"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-D3B8",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-3844F0",
+    "name_redacted": "CHILD_CH-3844F0",
+    "age": 9,
+    "date_of_birth": "2017-04-23",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-2A80B0",
+    "name_redacted": "CHILD_CH-2A80B0",
+    "age": 12,
+    "date_of_birth": "2014-02-06",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-7D1FC5",
+    "name_redacted": "CHILD_CH-7D1FC5",
+    "age": 10,
+    "date_of_birth": "2016-01-18",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-827E",
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-4D32B6",
+    "name_redacted": "CHILD_CH-4D32B6",
+    "age": 10,
+    "date_of_birth": "2016-05-01",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-F4CFE0",
+    "name_redacted": "CHILD_CH-F4CFE0",
+    "age": 2,
+    "date_of_birth": "2024-08-06",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-62CA",
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-48A443",
+    "name_redacted": "CHILD_CH-48A443",
+    "age": 3,
+    "date_of_birth": "2023-10-24",
+    "trauma_flags": [
+      "physical_abuse",
+      "substance_exposure"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-390A",
+    "county": "Santa Clara",
+    "state": "CA"
+  },
+  {
+    "id": "CH-F0FE03",
+    "name_redacted": "CHILD_CH-F0FE03",
+    "age": 4,
+    "date_of_birth": "2022-02-28",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-50C1AC",
+    "name_redacted": "CHILD_CH-50C1AC",
+    "age": 2,
+    "date_of_birth": "2024-10-15",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": null,
+    "county": "Alameda",
+    "state": "CA"
+  },
+  {
+    "id": "CH-47014C",
+    "name_redacted": "CHILD_CH-47014C",
+    "age": 7,
+    "date_of_birth": "2019-06-18",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "San Joaquin",
+    "state": "CA"
+  },
+  {
+    "id": "CH-C0AE49",
+    "name_redacted": "CHILD_CH-C0AE49",
+    "age": 10,
+    "date_of_birth": "2016-02-23",
+    "trauma_flags": [
+      "emotional_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": "SIB-4B10",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-47B328",
+    "name_redacted": "CHILD_CH-47B328",
+    "age": 10,
+    "date_of_birth": "2016-07-21",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-F28E",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-873860",
+    "name_redacted": "CHILD_CH-873860",
+    "age": 13,
+    "date_of_birth": "2013-01-11",
+    "trauma_flags": [
+      "neglect",
+      "physical_abuse",
+      "substance_exposure",
+      "medical_trauma",
+      "emotional_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-8A06",
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-122F2D",
+    "name_redacted": "CHILD_CH-122F2D",
+    "age": 2,
+    "date_of_birth": "2024-11-06",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-474DD1",
+    "name_redacted": "CHILD_CH-474DD1",
+    "age": 12,
+    "date_of_birth": "2014-12-25",
+    "trauma_flags": [
+      "neglect",
+      "sexual_abuse"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-54B0D6",
+    "name_redacted": "CHILD_CH-54B0D6",
+    "age": 11,
+    "date_of_birth": "2015-09-24",
+    "trauma_flags": [
+      "physical_abuse"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-E7FA",
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-8F0102",
+    "name_redacted": "CHILD_CH-8F0102",
+    "age": 4,
+    "date_of_birth": "2022-08-06",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Fresno",
+    "state": "CA"
+  },
+  {
+    "id": "CH-CE64B5",
+    "name_redacted": "CHILD_CH-CE64B5",
+    "age": 15,
+    "date_of_birth": "2011-05-19",
+    "trauma_flags": [
+      "physical_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-B0FD",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-492924",
+    "name_redacted": "CHILD_CH-492924",
+    "age": 1,
+    "date_of_birth": "2025-08-26",
+    "trauma_flags": [
+      "neglect",
+      "domestic_violence"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-7939",
+    "county": "Kern",
+    "state": "CA"
+  },
+  {
+    "id": "CH-E508F4",
+    "name_redacted": "CHILD_CH-E508F4",
+    "age": 15,
+    "date_of_birth": "2011-09-08",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-20FF65",
+    "name_redacted": "CHILD_CH-20FF65",
+    "age": 4,
+    "date_of_birth": "2022-10-20",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B8E290",
+    "name_redacted": "CHILD_CH-B8E290",
+    "age": 10,
+    "date_of_birth": "2016-07-18",
+    "trauma_flags": [
+      "domestic_violence"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "CH-BB51D6",
+    "name_redacted": "CHILD_CH-BB51D6",
+    "age": 4,
+    "date_of_birth": "2022-03-24",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "San Bernardino",
+    "state": "CA"
+  },
+  {
+    "id": "CH-38DF96",
+    "name_redacted": "CHILD_CH-38DF96",
+    "age": 1,
+    "date_of_birth": "2025-03-05",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-7939",
+    "county": "Kern",
+    "state": "CA"
+  },
+  {
+    "id": "CH-7CCDED",
+    "name_redacted": "CHILD_CH-7CCDED",
+    "age": 6,
+    "date_of_birth": "2020-01-22",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-56C9",
+    "county": "Other",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B7DDF0",
+    "name_redacted": "CHILD_CH-B7DDF0",
+    "age": 4,
+    "date_of_birth": "2022-07-10",
+    "trauma_flags": [
+      "substance_exposure"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Fresno",
+    "state": "CA"
+  },
+  {
+    "id": "CH-C0723A",
+    "name_redacted": "CHILD_CH-C0723A",
+    "age": 1,
+    "date_of_birth": "2025-07-05",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": "SIB-3A9C",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-B81CE5",
+    "name_redacted": "CHILD_CH-B81CE5",
+    "age": 12,
+    "date_of_birth": "2014-11-01",
+    "trauma_flags": [
+      "neglect",
+      "substance_exposure"
+    ],
+    "required_care_level": "Basic",
+    "sibling_group_id": null,
+    "county": "Fresno",
+    "state": "CA"
+  },
+  {
+    "id": "CH-71ED03",
+    "name_redacted": "CHILD_CH-71ED03",
+    "age": 17,
+    "date_of_birth": "2009-08-04",
+    "trauma_flags": [
+      "neglect",
+      "domestic_violence"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "CH-5DE302",
+    "name_redacted": "CHILD_CH-5DE302",
+    "age": 17,
+    "date_of_birth": "2009-05-11",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Intensive",
+    "sibling_group_id": null,
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-0D66F0",
+    "name_redacted": "CHILD_CH-0D66F0",
+    "age": 15,
+    "date_of_birth": "2011-12-19",
+    "trauma_flags": [
+      "physical_abuse"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-763F",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-D62151",
+    "name_redacted": "CHILD_CH-D62151",
+    "age": 12,
+    "date_of_birth": "2014-12-08",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Treatment",
+    "sibling_group_id": "SIB-F28E",
+    "county": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "CH-4F4C86",
+    "name_redacted": "CHILD_CH-4F4C86",
+    "age": 13,
+    "date_of_birth": "2013-05-21",
+    "trauma_flags": [
+      "neglect"
+    ],
+    "required_care_level": "Moderate",
+    "sibling_group_id": null,
+    "county": "Sacramento",
+    "state": "CA"
+  }
+]

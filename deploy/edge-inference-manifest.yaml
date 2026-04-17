@@ -1,0 +1,196 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: haven-engine
+  namespace: haven
+  labels:
+    app: haven-engine
+    tier: edge
+    version: v0.1.0
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: haven-engine
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  template:
+    metadata:
+      labels:
+        app: haven-engine
+        tier: edge
+      annotations:
+        prometheus.io/scrape: "true"
+        prometheus.io/port: "9090"
+    spec:
+      # Anti-affinity: spread across edge nodes for HA.
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 100
+              podAffinityTerm:
+                labelSelector:
+                  matchExpressions:
+                    - key: app
+                      operator: In
+                      values: [haven-engine]
+                topologyKey: kubernetes.io/hostname
+
+      containers:
+        # ── Symbolic Kernel (Rust binary) ─────────────────────────────
+        # Compiled from haven-core. Statically linked, <10MB image.
+        # <50ms cold start. Handles all constraint validation.
+        - name: symbolic-kernel
+          image: haven-engine/symbolic-kernel:v0.1.0
+          ports:
+            - containerPort: 8080
+              name: http
+              protocol: TCP
+            - containerPort: 9090
+              name: metrics
+              protocol: TCP
+          resources:
+            requests:
+              cpu: "500m"
+              memory: "256Mi"
+            limits:
+              cpu: "1000m"
+              memory: "512Mi"
+          env:
+            - name: RUST_LOG
+              value: "info"
+            - name: HAVEN_BIND_ADDR
+              value: "0.0.0.0:8080"
+            - name: HAVEN_METRICS_ADDR
+              value: "0.0.0.0:9090"
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: http
+            initialDelaySeconds: 5
+            periodSeconds: 10
+          readinessProbe:
+            httpGet:
+              path: /ready
+              port: http
+            initialDelaySeconds: 3
+            periodSeconds: 5
+          securityContext:
+            runAsNonRoot: true
+            readOnlyRootFilesystem: true
+            allowPrivilegeEscalation: false
+
+        # ── Neural Ranker (Python + quantized model) ──────────────────
+        # Loads all-MiniLM-L6-v2 for embedding + ranking.
+        # Only invoked AFTER symbolic kernel prunes candidates.
+        - name: neural-ranker
+          image: haven-engine/neural-ranker:v0.1.0
+          ports:
+            - containerPort: 8081
+              name: http-neural
+              protocol: TCP
+          resources:
+            requests:
+              cpu: "1000m"
+              memory: "2Gi"
+            limits:
+              cpu: "2000m"
+              memory: "4Gi"
+          env:
+            - name: MODEL_NAME
+              value: "sentence-transformers/all-MiniLM-L6-v2"
+            - name: HAVEN_SYMBOLIC_URL
+              value: "http://localhost:8080"
+            - name: PYTHONUNBUFFERED
+              value: "1"
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: http-neural
+            initialDelaySeconds: 30
+            periodSeconds: 15
+          readinessProbe:
+            httpGet:
+              path: /ready
+              port: http-neural
+            initialDelaySeconds: 20
+            periodSeconds: 10
+          securityContext:
+            runAsNonRoot: true
+            allowPrivilegeEscalation: false
+          volumeMounts:
+            - name: model-cache
+              mountPath: /app/models
+
+      volumes:
+        - name: model-cache
+          emptyDir:
+            sizeLimit: 500Mi
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: haven-engine
+  namespace: haven
+  labels:
+    app: haven-engine
+spec:
+  type: ClusterIP
+  ports:
+    - name: symbolic
+      port: 8080
+      targetPort: http
+      protocol: TCP
+    - name: neural
+      port: 8081
+      targetPort: http-neural
+      protocol: TCP
+    - name: metrics
+      port: 9090
+      targetPort: metrics
+      protocol: TCP
+  selector:
+    app: haven-engine
+
+---
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: haven-engine-pdb
+  namespace: haven
+spec:
+  minAvailable: 1
+  selector:
+    matchLabels:
+      app: haven-engine
+
+---
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: haven-engine-hpa
+  namespace: haven
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: haven-engine
+  minReplicas: 2
+  maxReplicas: 8
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: 70
+    - type: Resource
+      resource:
+        name: memory
+        target:
+          type: Utilization
+          averageUtilization: 80

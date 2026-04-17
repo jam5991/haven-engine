@@ -1,0 +1,1240 @@
+<!-- Start Header Top -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Search 404" />
+<link rel="canonical" href="https://acf.gov/search_404" />
+<meta property="og:title" content="Page Not Found" />
+<meta property="og:description" content="Search 404" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page Not Found" />
+<link rel="image_src" href="https://acf.gov/modules/custom/acf_utilities/images/social_media_thumbnails/default_acf.jpg" />
+<meta property="og:image" content="https://acf.gov/modules/custom/acf_utilities/images/social_media_thumbnails/default_acf.jpg" />
+<meta property="og:image:url" content="https://acf.gov/modules/custom/acf_utilities/images/social_media_thumbnails/default_acf.jpg" />
+<meta property="og:image:secure_url" content="https://acf.gov/modules/custom/acf_utilities/images/social_media_thumbnails/default_acf.jpg" />
+<meta name="twitter:image" content="https://acf.gov/modules/custom/acf_utilities/images/social_media_thumbnails/default_acf.jpg" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/acf_enterprise/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Page Not Found | The Administration for Children and Families</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_Eup7M3VD_Hn5I8-7aZjV5wqDqoXncQLDMO39YDkbHrc.css?delta=0&amp;language=en&amp;theme=acf_enterprise&amp;include=eJyFjsEOwyAMQ38IwSehACmwAYkSULu_X3eY1p0q-WA_WZYhbh7HRGGpii43CtBMgPj0k06xu3hfIw0TSdAlWQzNwgOOP5AqNMpmozFhR6WO7uLtjuET9bZgtdRuGASyABf97v-IXYNXaFULJqMvndjPr4pv7gVSkA" />
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v6.5.1/css/all.css" />
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v6.2.0/css/v4-shims.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_BrZURpi0vcXKWU0TUTfjaL35OrEXBcAGDIN8IdQ6vBk.css?delta=3&amp;language=en&amp;theme=acf_enterprise&amp;include=eJyFjsEOwyAMQ38IwSehACmwAYkSULu_X3eY1p0q-WA_WZYhbh7HRGGpii43CtBMgPj0k06xu3hfIw0TSdAlWQzNwgOOP5AqNMpmozFhR6WO7uLtjuET9bZgtdRuGASyABf97v-IXYNXaFULJqMvndjPr4pv7gVSkA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_XUg8DMr7GGSLfpb_EGBW5Kx3U4DfrZcChLD6GP7XA6A.css?delta=4&amp;language=en&amp;theme=acf_enterprise&amp;include=eJyFjsEOwyAMQ38IwSehACmwAYkSULu_X3eY1p0q-WA_WZYhbh7HRGGpii43CtBMgPj0k06xu3hfIw0TSdAlWQzNwgOOP5AqNMpmozFhR6WO7uLtjuET9bZgtdRuGASyABf97v-IXYNXaFULJqMvndjPr4pv7gVSkA" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css?family=Oswald:400,400i,700,700i" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyFUAtuwyAMvRCEIyFDTPECGNmwqrdfkk5b16qaZMl-H39kiMljGyhdSNFBTLYCNas00CqCxGwTSzXw13gpHKC8sAI7wGe6cqCC98ENPp9lTonie3kq2ACtoZzKHFRoEOp57A-yFLnZQm2zoXDcTIC4-cF7dPdQ-8P3VvxQk7gNuKJyRfdQL1cMB_zfsGimaja8BQZZvWaWEedQ90oZ7ti8IKzaETaU_RilaDoI7L_sWd0qs0NZfplltj5DIc24Gr3pwHp0oTn3S3XfeVkJCl--ACpSvEk","theme":"acf_enterprise","theme_token":null},"ajaxTrustedUrl":{"\/site_search":true},"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_speed":1200,"back_to_top_prevent_on_mobile":true,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"keyboard_shortcuts":{"shortcuts":[{"label":"Quick Exit (ALT+Q)","keystroke":"alt+q","roles":{"anonymous":0,"authenticated":0,"administrator":0,"acf_administrator":0,"acf_office_home_page_editor":0,"acf_editor":0,"acf_author":0,"acf_office_editor":0,"acf_office_author":0,"acf_office_viewer":0,"acf_blog_author":0},"enable_during_input":1,"prevent_default":1,"action":"trigger","arguments":{"type":"click","selector":".quick_exit_button"}}]},"webform":{"dialog":{"options":{"narrow":{"title":"Narrow","width":600},"normal":{"title":"Normal","width":800},"wide":{"title":"Wide","width":1000}},"entity_type":"node","entity_id":"23111"}},"open_readspeaker":{"rsConf":{"general":{"confirmPolicy":"","cookieLifetime":360000000,"cookieName":"ReadSpeakerSettings","customTransLangs":["ar_ar","da_dk","de_de","el_gr","en","es_es","fi_fi","fr_fr","hu_hu","id_id","it_it","ja_jp","ko_kr","lv_lv","nl_nl","no_nb","pl_pl","pt_br","pt_pt","ro_ro","ru_ru","sv_se","th_th","tr_tr","uk_ua","vi_vn","zh_cn"],"defaultSpeedValue":100,"domain":"readspeaker.com","nativeLanguages":false,"popupCloseTime":2000,"shadowDomSelector":null,"subdomain":"app","syncContainer":"default","saveLangVoice":false,"translatedDisclaimer":false,"skipHiddenContent":false,"labels":{"ignoreSelector":""},"usePost":false},"settings":{"hl":"wordsent","hlicon":"iconon","hlscroll":"scrolloff","hlsent":"#beffd6","hlspeed":"medium","hltext":"#000000","hltoggle":"hlon","hlword":"#a4cbff","kb":{"clicklisten":"shift+KeyH","controlpanel":"shift+KeyC","dictionary":"shift+KeyW","download":"shift+KeyD","enlarge":"shift+KeyE","fontsizeminus":"shift+Slash","fontsizeplus":"shift+Minus","formreading":"shift+KeyF","help":"shift+KeyI","menu":"shift+Digit1","pagemask":"shift+KeyM","pause":"shift+KeyP","play":"shift+KeyL","playerfocus":"shift+KeyK","settings":"shift+KeyS","stop":"shift+KeyX","textmode":"shift+KeyV","translation":"shift+KeyT","readingvoice":"shift+KeyR","detachfocus":"shift+KeyU"}},"ui":{"mobileVertPos":"bottom=40","controlpanel":{"vertical":"bottom","horizontal":"right"},"tools":{"settings":true,"voicesettings":false,"clicklisten":true,"enlarge":true,"formreading":false,"textmode":true,"pagemask":true,"download":true,"help":true,"dictionary":false,"translation":true,"skipbuttons":true,"speedbutton":true}}}},"user":{"uid":0,"permissionsHash":"69e91f183706d6bcceafa1c78d19f8bba672c1bbeec93609cad815f310ff26ce"}}</script>
+<script src="/sites/default/files/js/js_iVSzPXCTcr7ypXTMggys_eTlPall4HxrOhhS1JHxpY4.js?scope=header&amp;delta=0&amp;language=en&amp;theme=acf_enterprise&amp;include=eJx1kAEKwjAMRS_U2iOVNEu32K4ZSad4e-cUUYcQSP774RMCmCO1TrooGwXA7Gfg5o07eSNQnHwWnR18L45VEtQDVdgE_eJZEld6Bje4_NqSM-N_ezXwCVoj3Z21c-XOZPuxb-UZpfnKrfhUBYtLgCV22WoJH3M8myt0SwI6RJtEO67dwhE5WahFJRhsISikW4oxuiulx0PCq58GhirjHZNRf6w"></script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W3P647');</script>
+    <!-- End Google Tag Manager -->
+
+  </head>
+<!-- End Header Top -->
+
+<!-- Start Header bottom -->
+  <body class="acf_main uri_sites-default-files-documents-cb-afcars-fc-data-trends.xlsx bundle_landing_page">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3P647" title="hhsgoogletagmanager" height="0" width="0" aria-hidden="true" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <script async type="text/javascript" id="_fed_an_ua_tag"
+            src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=ACF">
+    </script>
+    <a href="#main-content" class="visually-hidden focusable">Skip To Main Content</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+	
+							<div id="acf_wrapper">
+
+
+  <section class="usa-banner" aria-label="Official government website">
+  <div class="usa-accordion">
+    <header class="usa-banner__header usa-banner__header--expanded">
+      <div class="usa-banner__inner"><img class="usa-banner__header-flag"
+                                          src="/themes/custom/acf_enterprise/images/icons/usa_banner/us_flag_small.png"
+                                          alt="U.S. flag" width="16"
+                                          height="11">
+        <p
+          class="usa-banner__header-text">          An official website of the United States government        </p>
+        <p class="usa-banner__header-action"
+           aria-hidden="true">          Here’s how you know        </p>
+        <button class="usa-accordion__button usa-banner__button"
+                aria-expanded="true" aria-controls="gov-banner-default"><span
+            class="usa-banner__button-text">Here’s how you know</span></button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content"
+         aria-hidden="false"
+         id="gov-banner-default">
+      <div class="usa-banner__guidance"><img
+          class="usa-banner__icon usa-media-block__img"
+          src="/themes/custom/acf_enterprise/images/icons/usa_banner/icon-dot-gov.svg" role="img" alt="decorative icon of blue government building surrounded by a blue circle">
+        <div class="usa-media-block__body"><p>
+            <strong> Official websites use .gov </strong>
+            <br/> A <strong>.gov</strong> website belongs to an official government organization in the United States.          </p></div>
+      </div>
+      <div class="usa-banner__guidance"><img
+          class="usa-banner__icon usa-media-block__img"
+          src="/themes/custom/acf_enterprise/images/icons/usa_banner/icon-https.svg" role="img" alt="decorative icon of green security padlock surrounded by a green circle">
+        <div class="usa-media-block__body">
+          <p><strong> Secure .gov websites use HTTPS </strong>
+            <br> A <strong>lock</strong> ( <span class="icon-lock"><svg
+                xmlns="http://www.w3.org/2000/svg" width="52" height="64"
+                viewBox="0 0 52 64" class="usa-banner__lock-image" role="img"
+                aria-labelledby="banner-lock-title-default banner-lock-description-default"
+                focusable="false">                  <title
+                  id="banner-lock-title-default">Lock</title>                  <desc
+                  id="banner-lock-description-default">A locked padlock</desc>                  <path
+                  fill="#000000" fill-rule="evenodd"
+                  d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"></path></svg></span>
+            ) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+			<div id="acf_branding_bar">
+			  <div>
+    <div  id="block-acf-enterprise-childcarefraud" class="block">
+	
+
+	
+	
+			<div>
+	
+						<div class="text-long wysiwyg"><div class="usa-alert usa-alert--emergency" role="alert"><div class="usa-alert__body"><p class="usa-alert__text"><a class="usa-link" href="https://oig.hhs.gov/fraud/report-fraud/">Click Here to Report Suspected Child Care Fraud</a></p></div></div></div>
+			</div>
+	</div> 
+
+
+	
+		
+			
+									
+		<nav aria="Sidebar left menu links" aria-labelledby="block-system-menu-block-branding-bar-menu" id="block-system-menu-block-branding-bar">
+																
+			<h2 class="visually-hidden" id="block-system-menu-block-branding-bar-menu">Branding Bar</h2>
+			
+
+							
+		<nav id="branding_bar" aria-label="Primary" class="branding_bar">
+				 <ul class="branding_bar_main_menu menu sf-menu sf-js-enabled sf-arrows">
+																		  <li block="block-system-menu-block-branding-bar" class="menu__item">
+				<span><a href="https://www.hhs.gov" class="hhs_icon menu__link">U.S. Department of Health &amp; Human Services</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item">
+				<span><a href="/" class="acf_icon menu__link" data-drupal-link-system-path="&lt;front&gt;">Administration for Children &amp; Families</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/acf-program-offices" class="menu__link menu__link--with-sub sf-with-ul" data-drupal-link-system-path="node/30">Select an ACF Office</a></span>
+			    <i class="background_arrow_right"></i>
+												 <ul class="branding_bar_sub_menu branding_bar_sub_menu_1 menu--sub menu--sub-1">
+																		  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/ana" class="menu__link" data-drupal-link-system-path="node/2">Administration for Native Americans (ANA)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/acyf" class="menu__link" data-drupal-link-system-path="node/3">Administration on Children, Youth, and Families (ACYF)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/cb" class="menu__link" data-drupal-link-system-path="node/4">Children&#039;s Bureau (CB)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/ecd" class="menu__link" data-drupal-link-system-path="node/5">Early Childhood Development (ECD)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/fysb" class="menu__link" data-drupal-link-system-path="node/31965">Family and Youth Services Bureau (FYSB)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/occ" class="menu__link" data-drupal-link-system-path="node/7">Office of Child Care (OCC)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/css" class="menu__link" data-drupal-link-system-path="node/8">Office of Child Support Enforcement (OCSE)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/ocs" class="menu__link" data-drupal-link-system-path="node/9">Office of Community Services (OCS)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/ofa" class="menu__link" data-drupal-link-system-path="node/10">Office of Family Assistance (OFA)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/ofvps" class="menu__link" data-drupal-link-system-path="node/27381">Office of Family Violence and Prevention Services (OFVPS)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/ohs" class="menu__link" data-drupal-link-system-path="node/11">Office of Head Start (OHS)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/ohsepr" class="menu__link" data-drupal-link-system-path="node/12">Office of Human Services Emergency Preparedness and Response (OHSEPR)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/olab" class="menu__link" data-drupal-link-system-path="node/13">Office of Legislative Affairs and Budget (OLAB)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/opre" class="menu__link" data-drupal-link-system-path="node/14">Office of Planning, Research &amp; Evaluation (OPRE)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/orr" class="menu__link" data-drupal-link-system-path="node/15">Office of Refugee Resettlement (ORR)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/oro" class="menu__link" data-drupal-link-system-path="node/1170">Office of Regional Operations (ORO)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/otip" class="menu__link" data-drupal-link-system-path="node/16">Office on Trafficking in Persons (OTIP)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/paris" class="menu__link" data-drupal-link-system-path="node/17">Public Assistance Reporting Information System (PARIS)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+																  <li block="block-system-menu-block-branding-bar" class="menu__item menu__item--with-sub">
+				<span><a href="/uac-ombuds" class="menu__link" data-drupal-link-system-path="node/30021">Unaccompanied Alien Children Office of the Ombuds (UACOO)</a></span>
+			    <i class="background_arrow_right"></i>
+			  </li>
+		 </ul>
+	
+	
+			  </li>
+		 </ul>
+	
+	</nav>
+	
+
+
+					</nav>
+
+	
+  </div>
+
+		</div>
+	
+			<header id="acf_header">
+			<div id="acf_header_top">
+					<div class="container-fluid">
+		<div class="row">
+								<div class="col-3" id="acf_header_top_left">
+  								  <div>
+    <div  id="block-block-content-b206ae96-7b4a-48e4-a520-1cfb978158d1" class="block">
+	
+
+	
+	
+			<div>
+	
+						<div class="text-long wysiwyg"><p><a href="/"><img alt="Administration for Children &amp; Families" src="/themes/custom/acf_enterprise/images/logos/acf_main_logo.png"></a></p></div>
+			</div>
+	</div>
+  </div>
+
+							</div>						<div class="col-9" id="acf_header_top_right">
+  								  <div>
+     
+
+
+	
+					
+			
+									
+		<nav aria="Sidebar left menu links" aria-labelledby="block-acf-main-top-nav-menu-menu" class="acf_main_top_nav_menu" id="block-acf-main-top-nav-menu">
+																
+			<h2 class="visually-hidden" id="block-acf-main-top-nav-menu-menu">ACF Main - Top Navigation</h2>
+			
+
+							
+
+
+				<div id="office_main_nav" class="office_main_nav office_acf-main">
+			<div id="office_menu_nav_container">
+							<ul class="office_main_top_level menu sf-menu sf-js-enabled sf-arrows">
+																	<li class="menu__item menu__item--with-sub">
+					<div class="menu_link_container">
+						<a href="/about" class="menu__link menu__link--with-sub sf-with-ul menu__link--parent">About</a>
+									<a href="javascript: void(0);" class="expand_link"><i class="fa fa-angle-down"></i><span class="hide">Expand</span></a>
+					</div>
+					
+								<ul class="office_main_sub_level office_main_sub_menu_1 menu--sub menu--sub-1">
+																	<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/a-home-for-every-child" class="menu__link">A Home for Every Child</a>
+									</div>
+								</li>
+																		<li class="menu__item  menu_item--collapsed">
+					<div class="menu_link_container">
+						<a href="/about/leadership" class="menu__link">Leadership</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/about/offices" class="menu__link">Program Offices</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/about/budget" class="menu__link">Budget</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/about/acf-vision-mission-values" class="menu__link">Vision, Mission & Values</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/about/history" class="menu__link">History</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/about/acf-policies" class="menu__link">Policies</a>
+									</div>
+								</li>
+								</ul>
+		
+								</li>
+																		<li class="menu__item menu__item--with-sub">
+					<div class="menu_link_container">
+						<a href="/about/acf-policies" class="menu__link menu__link--with-sub sf-with-ul menu__link--parent">Policy Actions</a>
+									<a href="javascript: void(0);" class="expand_link"><i class="fa fa-angle-down"></i><span class="hide">Expand</span></a>
+					</div>
+					
+								<ul class="office_main_sub_level office_main_sub_menu_1 menu--sub menu--sub-1">
+																	<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/about/acf-policies#issue-briefs" class="menu__link">Issue Briefs</a>
+									</div>
+								</li>
+								</ul>
+		
+								</li>
+																		<li class="menu__item menu__item--with-sub">
+					<div class="menu_link_container">
+						<a href="/grants" class="menu__link menu__link--with-sub sf-with-ul menu__link--parent">Grants & Contracts</a>
+									<a href="javascript: void(0);" class="expand_link"><i class="fa fa-angle-down"></i><span class="hide">Expand</span></a>
+					</div>
+					
+								<ul class="office_main_sub_level office_main_sub_menu_1 menu--sub menu--sub-1">
+																	<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/grants/how-apply-grant" class="menu__link">How to Apply for a Grant</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/grants/manage-grant" class="menu__link">Manage a Grant</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/grants/about-us" class="menu__link">About ACF Grants Division</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/about/contracting" class="menu__link">Contracting</a>
+									</div>
+								</li>
+								</ul>
+		
+								</li>
+																		<li class="menu__item menu__item--with-sub">
+					<div class="menu_link_container">
+						<a href="/press" class="menu__link menu__link--with-sub sf-with-ul menu__link--parent">Press Room</a>
+									<a href="javascript: void(0);" class="expand_link"><i class="fa fa-angle-down"></i><span class="hide">Expand</span></a>
+					</div>
+					
+								<ul class="office_main_sub_level office_main_sub_menu_1 menu--sub menu--sub-1">
+																	<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/press#press-releases" class="menu__link">Press Releases</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/press#acf-in-the-press" class="menu__link">ACF in the Press</a>
+									</div>
+								</li>
+								</ul>
+		
+								</li>
+																		<li class="menu__item menu__item--with-sub">
+					<div class="menu_link_container">
+						<a href="/programs-services" class="menu__link menu__link--with-sub sf-with-ul menu__link--parent">Programs & Services</a>
+									<a href="javascript: void(0);" class="expand_link"><i class="fa fa-angle-down"></i><span class="hide">Expand</span></a>
+					</div>
+					
+								<ul class="office_main_sub_level office_main_sub_menu_1 menu--sub menu--sub-1">
+																	<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/map/foster-care-state" class="menu__link">Become a Foster Parent</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/acf-hotlines-helplines" class="menu__link">ACF Hotlines and Helplines</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/toolkit/resource-guides-populations-served-acf-programs" class="menu__link">Resources for Populations Served by ACF Programs</a>
+									</div>
+								</li>
+																		<li class="menu__item">
+					<div class="menu_link_container">
+						<a href="/grants/manage-grant/glossary" class="menu__link">Glossary of Grants Definitions & Terms</a>
+									</div>
+								</li>
+								</ul>
+		
+								</li>
+								</ul>
+				</div>
+	</div>
+	
+
+
+					</nav>
+
+	<div  class="views-exposed-form block" novalidate="novalidate" data-drupal-selector="views-exposed-form-site-searches-all-site-search" id="block-views-exposed-filter-blocks-block">
+	
+
+	
+	
+			<form block="block-views-exposed-filter-blocks-block" action="/site_search" method="get" id="views-exposed-form-site-searches-all-site-search" accept-charset="UTF-8">
+  
+	<div class="acf_main_site_search_form search-wrapper">
+  <div class="site_search_initial">
+        <a href="#" class="site_search_initial_a search_icon_before js-search-toggle">
+      <span class="hide">Show site </span>
+      <span class="hide"> field here.</span>
+    </a>
+  </div>
+
+  <div class="filter_form_form search-form-overlay">
+    <div class="site_search_form_container field_button_combo">
+      <div class="left_field">
+        <label for="edit-keyword" class="visually-hidden">Search this site </label>
+<input type="text"  class="input_text input_text" id="edit-keyword" label="" name="keyword" title="Keyword"placeholder="Search"  />
+      </div>
+
+      <div class="right_button">
+        <button type="submit" id="edit-submit-site-searches" class="hide_text usa-button">
+          <i class="fas fa-search"></i>
+          <span class="search_form_submit_text">Search</span>
+        </button>
+      </div>
+
+    </div>
+        <button type="button" class="site-search-close usa-button js-search-toggle" aria-label="Close search">
+      <i class="fas fa-times"></i>
+    </button>
+  </div>
+</div>
+
+</form>
+
+	</div><div  id="block-acf-main-mobile-menu-icon" class="block">
+	
+
+	
+	
+			<div class="block icon_link_block" id="acf_main_mobile_menu_icon" icon-link-block-target-block-id-class=".acf_main_nav_office_menu_mobile">
+	<a href="javascript: void(0);" class="menu_icon" icon-link-block-a-toggle-class="acf_main_menu_icon_close">
+		<span class="sr-only">Click to expand</span>		menu
+	</a>
+</div>
+	</div><div  id="block-acf-main-mobile-search-icon" class="block">
+	
+
+	
+	
+			<div class="block icon_link_block" id="acf_main_mobile_search_icon" icon-link-block-target-block-id-class=".acf_main_full_site_search_mobile">
+	<a href="javascript: void(0);" class="search_icon" icon-link-block-a-toggle-class="acf_main_search_icon_close">
+		<span class="sr-only">Click to expand</span>		search
+	</a>
+</div>
+	</div>
+  </div>
+
+							</div>						</div>
+</div>			</div> <!-- /#acf_header_top -->
+
+							<div id="acf_header_bottom">
+					  <div>
+    <div  class="views-exposed-form acf_main_full_site_search_mobile block" novalidate="novalidate" data-drupal-selector="views-exposed-form-site-searches-all-site-search" id="block-acf-main-full-site-search-mobile">
+	
+
+	
+	
+			<form block="block-acf-main-full-site-search-mobile" action="/site_search" method="get" id="views-exposed-form-site-searches-all-site-search" accept-charset="UTF-8">
+  
+	<div class="acf_main_site_search_form search-wrapper">
+  <div class="site_search_initial">
+        <a href="#" class="site_search_initial_a search_icon_before js-search-toggle">
+      <span class="hide">Show site </span>
+      <span class="hide"> field here.</span>
+    </a>
+  </div>
+
+  <div class="filter_form_form search-form-overlay">
+    <div class="site_search_form_container field_button_combo">
+      <div class="left_field">
+        <label for="edit-keyword--2" class="visually-hidden">Search this site </label>
+<input type="text"  class="input_text input_text" id="edit-keyword--2" label="" name="keyword" title="Keyword"placeholder="Search"  />
+      </div>
+
+      <div class="right_button">
+        <button type="submit" id="edit-submit-site-searches--2" class="hide_text usa-button">
+          <i class="fas fa-search"></i>
+          <span class="search_form_submit_text">Search</span>
+        </button>
+      </div>
+
+    </div>
+        <button type="button" class="site-search-close usa-button js-search-toggle" aria-label="Close search">
+      <i class="fas fa-times"></i>
+    </button>
+  </div>
+</div>
+
+</form>
+
+	</div><div  class="acf_main_nav_office_menu_mobile block" id="block-acf-main-nav-office-menu-mobile">
+	
+
+	
+	
+			
+<div class="combine_menus">
+		<nav id="mobile_main_nav" aria-label="Primary" class="mobile_main_nav">
+		<ul class="mobile_main_nav_top_level">
+							<li class="first_menu_link">
+					<div class="menu_link_container">
+						<a href="/about">About</a>
+						    							<a href="javascript: void(0);" class="expand_link"><i class="fa fa-chevron-right"></i><span class="hide">Expand</span></a>
+   							</div> <!-- /.menu_link_container -->
+							<ul class="mobile_main_nav_sub_level">
+																	<li>
+																					<a href="/a-home-for-every-child">A Home for Every Child</a>
+																			</li>
+																	<li>
+																					<a href="/about/leadership">Leadership</a>
+																			</li>
+																	<li>
+																					<a href="/about/offices">Program Offices</a>
+																			</li>
+																	<li>
+																					<a href="/about/budget">Budget</a>
+																			</li>
+																	<li>
+																					<a href="/about/acf-vision-mission-values">Vision, Mission & Values</a>
+																			</li>
+																	<li>
+																					<a href="/about/history">History</a>
+																			</li>
+																	<li>
+																					<a href="/about/acf-policies">Policies</a>
+																			</li>
+															</ul>
+						  				</li>
+							<li class="first_menu_link">
+					<div class="menu_link_container">
+						<a href="/about/acf-policies">Policy Actions</a>
+						    							<a href="javascript: void(0);" class="expand_link"><i class="fa fa-chevron-right"></i><span class="hide">Expand</span></a>
+   							</div> <!-- /.menu_link_container -->
+							<ul class="mobile_main_nav_sub_level">
+																	<li>
+																					<a href="/about/acf-policies#issue-briefs">Issue Briefs</a>
+																			</li>
+															</ul>
+						  				</li>
+							<li class="first_menu_link">
+					<div class="menu_link_container">
+						<a href="/grants">Grants & Contracts</a>
+						    							<a href="javascript: void(0);" class="expand_link"><i class="fa fa-chevron-right"></i><span class="hide">Expand</span></a>
+   							</div> <!-- /.menu_link_container -->
+							<ul class="mobile_main_nav_sub_level">
+																	<li>
+																					<a href="/grants/how-apply-grant">How to Apply for a Grant</a>
+																			</li>
+																	<li>
+																					<a href="/grants/manage-grant">Manage a Grant</a>
+																			</li>
+																	<li>
+																					<a href="/grants/about-us">About ACF Grants Division</a>
+																			</li>
+																	<li>
+																					<a href="/about/contracting">Contracting</a>
+																			</li>
+															</ul>
+						  				</li>
+							<li class="first_menu_link">
+					<div class="menu_link_container">
+						<a href="/press">Press Room</a>
+						    							<a href="javascript: void(0);" class="expand_link"><i class="fa fa-chevron-right"></i><span class="hide">Expand</span></a>
+   							</div> <!-- /.menu_link_container -->
+							<ul class="mobile_main_nav_sub_level">
+																	<li>
+																					<a href="/press#press-releases">Press Releases</a>
+																			</li>
+																	<li>
+																					<a href="/press#acf-in-the-press">ACF in the Press</a>
+																			</li>
+															</ul>
+						  				</li>
+							<li class="first_menu_link">
+					<div class="menu_link_container">
+						<a href="/programs-services">Programs & Services</a>
+						    							<a href="javascript: void(0);" class="expand_link"><i class="fa fa-chevron-right"></i><span class="hide">Expand</span></a>
+   							</div> <!-- /.menu_link_container -->
+							<ul class="mobile_main_nav_sub_level">
+																	<li>
+																					<a href="/map/foster-care-state">Become a Foster Parent</a>
+																			</li>
+																	<li>
+																					<a href="/acf-hotlines-helplines">ACF Hotlines and Helplines</a>
+																			</li>
+																	<li>
+																					<a href="/toolkit/resource-guides-populations-served-acf-programs">Resources for Populations Served by ACF Programs</a>
+																			</li>
+																	<li>
+																					<a href="/grants/manage-grant/glossary">Glossary of Grants Definitions & Terms</a>
+																			</li>
+															</ul>
+						  				</li>
+										<li class="second_menu_link">
+					<div class="menu_link_container">
+						<a href="/acf-program-offices">ACF Offices</a>
+						    							<a href="javascript: void(0);" class="expand_link"><i class="fa fa-chevron-right"></i><span class="hide">Expand</span></a>
+   							</div> <!-- /.menu_link_container -->
+							<ul class="mobile_main_nav_sub_level">
+																	<li>
+																					<span class="link_heading ">By Program Office</span>
+																			</li>
+																	<li>
+																					<a href="/ana">Administration for Native Americans (ANA)</a>
+																			</li>
+																	<li>
+																					<a href="/acyf">Administration on Children, Youth, and Families (ACYF)</a>
+																			</li>
+																	<li>
+																					<a href="/cb">Children's Bureau (CB)</a>
+																			</li>
+																	<li>
+																					<a href="/ecd">Early Childhood Development (ECD)</a>
+																			</li>
+																	<li>
+																					<a href="/fysb">Family and Youth Services Bureau (FYSB)</a>
+																			</li>
+																	<li>
+																					<a href="/occ">Office of Child Care (OCC)</a>
+																			</li>
+																	<li>
+																					<a href="/css">Office of Child Support Services (OCSS)</a>
+																			</li>
+																	<li>
+																					<a href="/ocs">Office of Community Services (OCS)</a>
+																			</li>
+																	<li>
+																					<a href="/ofa">Office of Family Assistance (OFA)</a>
+																			</li>
+																	<li>
+																					<a href="/ofvps">Office of Family Violence Prevention and Services (OFVPS)</a>
+																			</li>
+																	<li>
+																					<a href="/ohs">Office of Head Start (OHS)</a>
+																			</li>
+																	<li>
+																					<a href="/ohsepr">Office of Human Services Emergency Preparedness and Response (OHSEPR)</a>
+																			</li>
+																	<li>
+																					<a href="/olab">Office of Legislative Affairs and Budget (OLAB)</a>
+																			</li>
+																	<li>
+																					<a href="/opre">Office of Planning, Research & Evaluation (OPRE)</a>
+																			</li>
+																	<li>
+																					<a href="/orr">Office of Refugee Resettlement (ORR)</a>
+																			</li>
+																	<li>
+																					<a href="/otip">Office on Trafficking in Persons (OTIP)</a>
+																			</li>
+																	<li>
+																					<a href="/paris">Public Assistance Reporting Information System (PARIS)</a>
+																			</li>
+																	<li>
+																					<a href="/uac-ombuds">Unaccompanied Alien Children Office of the Ombuds (UACOO)</a>
+																			</li>
+																	<li>
+																					<span class="link_heading ">By Region</span>
+																			</li>
+																	<li>
+																					<a href="/oro">Office of Regional Operations (ORO)</a>
+																			</li>
+																	<li>
+																					<a href="/oro/regional-offices/region1">Region 1 (Boston)</a>
+																			</li>
+																	<li>
+																					<a href="/oro/regional-offices/region2">Region 2 (New York City)</a>
+																			</li>
+																	<li>
+																					<a href="/oro/regional-offices/region3">Region 3 (Philadelphia)</a>
+																			</li>
+																	<li>
+																					<a href="/oro/regional-offices/region4">Region 4 (Atlanta)</a>
+																			</li>
+																	<li>
+																					<a href="/oro/regional-offices/region5">Region 5 (Chicago)</a>
+																			</li>
+																	<li>
+																					<a href="/oro/regional-offices/region6">Region 6 (Dallas)</a>
+																			</li>
+																	<li>
+																					<a href="/oro/regional-offices/region7">Region 7 (Kansas City)</a>
+																			</li>
+																	<li>
+																					<a href="/oro/regional-offices/region8">Region 8 (Denver)</a>
+																			</li>
+																	<li>
+																					<a href="/oro/regional-offices/region9">Region 9 (San Francisco)</a>
+																			</li>
+																	<li>
+																					<a href="/oro/regional-offices/region10">Region 10 (Seattle)</a>
+																			</li>
+															</ul>
+						  				</li>
+					</ul>
+	</div> <!-- /#mobile_main_nav -->
+</div>
+	</div>
+  </div>
+
+				</div>
+					</header>
+	<!-- End Header bottom -->
+
+			<div id="acf_breadcrumb">
+				<div class="container-fluid">
+		<div class="row">
+							<div class="col-md-12">
+  							  <div>
+    <div  id="block-acf-enterprise-breadcrumbs" class="block">
+	
+
+	
+	
+				<nav role="navigation" class="breadcrumb_nav acf_main has_print">
+	<ol class="breadcrumb_ol">
+					<li class="breadcrumb_li">
+									<a class="breadcrumb_link" href="/">Home</a>
+							</li>
+					<li class="breadcrumb_li">
+									<span class="breadcrumb_content">Page Not Found</span>
+							</li>
+			</ol>
+			<a href="javascript: window.print();" class="print_link float_right"	title="Print this page"
+>PRINT</a>
+	</nav>
+
+	</div>
+  </div>
+
+						</div>					</div>
+</div>		</div>
+	
+	
+	<main id="acf_main" role="main">
+		<div id="acf_main_container">
+				<div class="container-fluid">
+		<div class="row">
+												<div class="col-md">
+  							<div id="acf_main_container_content">
+																<a id="main-content" tabindex="-1"></a>
+
+								
+
+								  <div>
+    <div data-drupal-messages-fallback class="hidden"></div><div  id="block-acf-enterprise-page-title" class="block">
+	
+
+	
+	
+			
+	<h1 class="h1">
+      <span>Page Not Found</span>
+
+  </h1>
+
+
+	</div><div  id="block-openreadspeakerblock" class="block">
+	
+
+	
+	
+			<div class="open-readspeaker-webreader">
+  <div id="readspeaker_button" class="rs_skip rsbtn rs_preserve">
+    <a rel="nofollow" href="//app-na.readspeaker.com/cgi-bin/rsent?customerid=7596&amp;lang=en_us&amp;readid=acf_main_container&amp;url=https%3A//acf.gov/search_404%3Fdestination%3D/%26_exception_statuscode%3D404" title="Listen to this page using ReadSpeaker" class="rsbtn_play">
+      <span class="rsbtn_left rsimg rspart">
+        <span class="rsbtn_text">
+          <span>Listen</span>
+        </span>
+      </span>
+      <span class="rsbtn_right rsimg rsplay rspart"></span>
+    </a>
+  </div>
+</div>
+
+	</div><div  id="block-acf-enterprise-content" class="block">
+	
+
+	
+	
+			
+<article  about="/search_404">
+
+  
+    
+
+  
+  <div>
+    	<div class="container-fluid paragraphs">
+		<div class="row">
+									<div class="col-md-12">
+  		<div class="paragraph_hero">
+																							
+			<div id="paragraph_id_110176" class="hero_img_bg">
+													<div class="hero_img_bg_text hero_img_bg_text_bottom">
+													<div class="hero_img_bg_text_content">
+																									<div  class="block">
+	
+
+	
+	
+			
+<div id="office_404_search_block" class="padding_all margin_bottom center">
+      <p>Please use the search below to find your content on Administration for Children and Families. The result you’re looking for may no longer be available or may be under review for archival. Please check the <a href="/archive">ACF Archives</a> later.</p>
+    <form action="/site_search" method="get" id="office_404_search_form">
+						<div class="acf_main_site_search_form show_form search-wrapper">
+  <div class="site_search_initial">
+        <a href="#" class="site_search_initial_a search_icon_before js-search-toggle">
+      <span class="hide">Show site </span>
+      <span class="hide"> field here.</span>
+    </a>
+  </div>
+
+  <div class="filter_form_form search-form-overlay">
+    <div class="site_search_form_container field_button_combo">
+      <div class="left_field">
+        <label for="office_404_search_keyword" class="visually-hidden">Search this site </label>
+<input type="text"  class="input_text input_text" id="office_404_search_keyword" label="" name="keyword" title="Search acf_main for this keyword"placeholder="Search"  value="sites default files documents cb afcars fc data trends.xlsx" />
+      </div>
+
+      <div class="right_button">
+        <button type="submit" id="office_404_search_submit_id" class="hide_text usa-button">
+          <i class="fas fa-search"></i>
+          <span class="search_form_submit_text">Search acf_main</span>
+        </button>
+      </div>
+
+    </div>
+        <button type="button" class="site-search-close usa-button js-search-toggle" aria-label="Close search">
+      <i class="fas fa-times"></i>
+    </button>
+  </div>
+</div>
+			</form>
+</div>
+
+	</div>
+															</div>
+											</div>
+							</div>
+						
+			<script type="text/javascript">
+			// we need to use JavaScript to get the random image since PatternLab & Drupal 8 cache EVERYTHING
+			var images = [ 'https://acf.gov/sites/default/files/images//about-hero.jpg', 'https://acf.gov/sites/default/files/images/opre/year%20up%20blog%20header.jpg' ];
+			var random_image_src = images[Math.floor(Math.random() * images.length)];
+			document.getElementById("paragraph_id_110176").style.backgroundImage = "url(" + random_image_src + ")";
+			</script>
+		</div>
+	</div>
+				</div>
+</div>
+  </div>
+
+</article>
+
+	</div>
+  </div>
+
+
+								
+																									<div id="acf_below_main">
+										
+									</div>
+															</div>
+						</div>										</div>
+</div>		</div>
+	</main>
+
+	
+    <!-- Start Footer -->
+	<footer id="acf_footer">
+        <div class="acf_pre_footer">
+        <div id="acf_pre_footer_container">
+          <div class="container">
+             <div>
+    <div  id="block-socialmediaiconsblockdynamic" class="block">
+	
+
+	
+	
+			
+	<div id="social_media_links">
+    <div  class="social_media_links__container">
+									<a href="https://www.facebook.com/ChildrenAndFamilies" target="_blank" class="social_media_link facebook office" title="ACF on Facebook">
+        <i class="fab fa-facebook"></i><span class="hide">ACF on Facebook</span>
+  </a>
+												<a href="https://www.twitter.com/acfhhs" target="_blank" class="social_media_link twitter office" title="ACF on Twitter">
+      <i class="fab fa-brands fa-x-twitter"></i><span class="hide">ACF on Twitter</span>
+    </a>
+												<a href="https://www.instagram.com/acf_gov" target="_blank" class="social_media_link instagram office" title="ACF on Instagram">
+        <i class="fab fa-instagram"></i><span class="hide">ACF on Instagram</span>
+  </a>
+												<a href="https://www.flickr.com/photos/acfgov" target="_blank" class="social_media_link flickr office" title="ACF on Flickr">
+        <i class="fab fa-flickr"></i><span class="hide">ACF on Flickr</span>
+  </a>
+												<a href="https://www.youtube.com/channel/UCWBKgxPd3mMuv8agsCICHww" target="_blank" class="social_media_link youtube office" title="ACF YouTube Channel">
+        <i class="fab fa-youtube"></i><span class="hide">ACF YouTube Channel</span>
+  </a>
+					    </div>
+    <div class="social_links__text">Follow Us</div>
+	</div>
+
+
+
+
+
+
+	</div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    
+		<div id="acf_footer_above">
+			<div id="acf_footer_above_container">
+					<div class="container-fluid">
+		<div class="row">
+															<div class="col-md-2" id="acf_footer_left">
+  									  <div>
+     
+
+
+	
+										
+			
+									
+		<nav aria="Sidebar left menu links" aria-labelledby="block-system-menu-block-acf-main-main-nav-menu" class="region_footer_left" id="block-system-menu-block-acf-main-main-nav">
+																
+			<h2 class="visually-hidden" id="block-system-menu-block-acf-main-main-nav-menu">ACF Main - Bottom Navigation</h2>
+			
+
+							        <div id="footer_nav" class="footer_nav">         <ul class="footer_main_menu">
+                            <li>
+                    <a href="/about">About</a>
+                </li>
+                            <li>
+                    <a href="/about/acf-policies">Policy Actions</a>
+                </li>
+                            <li>
+                    <a href="/grants">Grants & Contracts</a>
+                </li>
+                            <li>
+                    <a href="/press">Press Room</a>
+                </li>
+                            <li>
+                    <a href="/programs-services">Programs & Services</a>
+                </li>
+                    </ul>
+    </div>
+
+					</nav>
+
+	
+  </div>
+
+								</div>												<div class="col-md-6" id="acf_footer_middle">
+  								  <div>
+    
+
+	
+		
+			
+		<nav role="navigation" aria-label="Important Links"  id="block-bottom-footer-nav">
+																
+			<h2 class="visually-hidden" id="block-bottom-footer-nav-menu">Bottom Footer Navigation</h2>
+			
+
+							 
+	<div id="bottom_footer_nav" class="bottom_footer_nav">
+		<ul class="bottom_footer_main_menu">
+											                <li>
+					<a href="/welcome-acf">Related Sites</a>
+											<ul>
+																																																<li>
+									<a href="https://www.hhs.gov" class="external"	target="_blank"
+>HHS.gov	<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
+</svg>
+
+</a>
+								</li>
+																																																<li>
+									<a href="https://www.grants.gov" class="external"	target="_blank"
+>Grants.gov	<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
+</svg>
+
+</a>
+								</li>
+																																																<li>
+									<a href="https://www.usajobs.gov/" class="external"	target="_blank"
+>USAJobs.gov	<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
+</svg>
+
+</a>
+								</li>
+																																																<li>
+									<a href="https://www.usa.gov" class="external"	target="_blank"
+>USA.gov	<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
+</svg>
+
+</a>
+								</li>
+													</ul>
+									</li>
+											                <li>
+					<a href="/welcome-acf">Helpful Links</a>
+											<ul>
+																																																<li>
+									<a href="https://oig.hhs.gov/fraud/report-fraud/" class="external"	target="_blank"
+>Report Fraud	<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
+</svg>
+
+</a>
+								</li>
+																																																<li>
+									<a href="https://get.adobe.com/reader/" class="external"	target="_blank"
+>Download Acrobat Reader ©	<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
+</svg>
+
+</a>
+								</li>
+													</ul>
+									</li>
+											                <li>
+					<a href="/about/acf-policies">Policies</a>
+											<ul>
+																															<li>
+									<a href="/accessibility">Accessibility</a>
+								</li>
+																															<li>
+									<a href="/about/acf-policies/no-fear-act">No FEAR Act</a>
+								</li>
+																															<li>
+									<a href="/privacy-policy">Privacy Policy</a>
+								</li>
+																															<li>
+									<a href="/foia">FOIA</a>
+								</li>
+																																																<li>
+									<a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="external"	target="_blank"
+>HHS Vulnerability Disclosure Policy	<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
+</svg>
+
+</a>
+								</li>
+																															<li>
+									<a href="/disclaimers">Disclaimers</a>
+								</li>
+													</ul>
+									</li>
+			        </ul>
+	</div>
+
+					</nav>
+
+	
+  </div>
+
+							</div>													<div class="col-md-4" id="acf_footer_right">
+  									  <div>
+    <div  id="block-block-content-71cdc3a9-f3b6-4334-a2c0-ede396e6ac5b">
+		<div class="subscribe_form no_background_color footer_subscribe">
+	<div class="subscribe_form_container">
+		<div class="left_heading">
+			<h2 class="h2">
+      Get our Latest Updates
+  </h2>
+
+		</div>
+		<div class="right_form">
+			<form name="ccoptin" action="https://list.nih.gov/cgi-bin/wa.exe" target="_blank" method="post">
+																								
+													<input name="SUBED2" value="ACFCOMMUNICATIONS" type="hidden" />
+					<input name="A" value="1" type="hidden" />
+					<input name="L" value="ACFCOMMUNICATIONS" type="hidden" />
+					<input name="q" type="hidden" />
+					<input name="t" type="hidden" />
+					<input name="1776457806" type="hidden" />
+				
+												
+																															<div class="subscribe_signup_container field_button_combo blue_border round">
+					<div class="left_field">
+            <label for="email" class="visually-hidden">Enter your email address </label>
+            <input class="input_text light_medium_gray_border big" id="edit-email" type="email" title="Email Address" name="s" value="" placeholder="Email Address" />
+					</div>
+					<div class="right_button">
+						<input name="b" class="button yellow bigger" id="join" type="submit" value="Sign Up" name="go" data-newsletter="ACF (ACFCOMMUNICATIONS)" />
+					</div>
+				</div>
+			</form>
+					</div>
+	</div>
+</div>
+</div>
+  </div>
+
+								</div>												</div>
+</div>			</div>
+		</div> <!-- /#acf_footer_above -->
+
+		<div id="acf_footer_below">
+			<div id="acf_footer_below_container">
+					<div class="container-fluid">
+		<div class="row">
+								<div class="col-md-4" id="acf_sub_footer_left">
+  								  <div>
+    <div  id="block-footerimage" class="block">
+	
+
+	
+	
+			<div>
+	
+						<div class="text-long wysiwyg"><p><img alt="Administration for Children and Families logo" src="/themes/custom/acf_enterprise/images/logos/acf_main_logo_white.png"></p></div>
+			</div>
+	</div>
+  </div>
+
+							</div>						<div class="col-md-4" id="acf_sub_footer_middle">
+  								
+							</div>						<div class="col-md-4" id="acf_sub_footer_right">
+  								  <div>
+    <div  id="block-footerinformation" class="block">
+	
+
+	
+	
+			<div>
+	
+						<div class="text-long wysiwyg"><strong>U.S. Department of Health &amp; Human Services</strong><br>
+330 C Street, S.W., Washington, D.C. 20201</div>
+			</div>
+	</div><div  id="block-socialmediaiconsblockglobal" class="block">
+	
+
+	
+	
+				<div id="social_media_links">
+									<a href="https://www.facebook.com/ChildrenAndFamilies" target="_blank" class="social_media_link facebook" title="ACF on Facebook">
+        <i class="fab fa-facebook"></i><span class="hide">ACF on Facebook</span>
+  </a>
+												<a href="https://www.twitter.com/acfhhs" target="_blank" class="social_media_link twitter" title="ACF on Twitter">
+      <i class="fab fa-brands fa-x-twitter"></i><span class="hide">ACF on Twitter</span>
+    </a>
+												<a href="https://www.instagram.com/acf_gov" target="_blank" class="social_media_link instagram" title="ACF on Instagram">
+        <i class="fab fa-instagram"></i><span class="hide">ACF on Instagram</span>
+  </a>
+												<a href="https://www.flickr.com/photos/acfgov" target="_blank" class="social_media_link flickr" title="ACF on Flickr">
+        <i class="fab fa-flickr"></i><span class="hide">ACF on Flickr</span>
+  </a>
+												<a href="https://www.youtube.com/channel/UCWBKgxPd3mMuv8agsCICHww" target="_blank" class="social_media_link youtube" title="ACF YouTube Channel">
+        <i class="fab fa-youtube"></i><span class="hide">ACF YouTube Channel</span>
+  </a>
+						</div>
+
+
+
+
+
+
+	</div>
+  </div>
+
+							</div>						</div>
+</div>			</div>
+		</div> <!-- /#acf_footer_below -->
+
+	</footer> <!-- /acf_footer -->
+    <!-- End Footer -->
+
+</div> <!-- /acf_wrapper -->
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_XHslhtzUOwgeAvXZGNaYn_D21msdCeWXWfow95JqpNA.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=acf_enterprise&amp;include=eJx1kAEKwjAMRS_U2iOVNEu32K4ZSad4e-cUUYcQSP774RMCmCO1TrooGwXA7Gfg5o07eSNQnHwWnR18L45VEtQDVdgE_eJZEld6Bje4_NqSM-N_ezXwCVoj3Z21c-XOZPuxb-UZpfnKrfhUBYtLgCV22WoJH3M8myt0SwI6RJtEO67dwhE5WahFJRhsISikW4oxuiulx0PCq58GhirjHZNRf6w"></script>
+<script src="https://cdn1.readspeaker.com/script/7596/ReadSpeaker.js?pids=embhl"></script>
+<script src="/sites/default/files/js/js_H9FHDEkNXvEWdW2teruwb3noCxSqC-Y9t-HdJnPRG9o.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=acf_enterprise&amp;include=eJx1kAEKwjAMRS_U2iOVNEu32K4ZSad4e-cUUYcQSP774RMCmCO1TrooGwXA7Gfg5o07eSNQnHwWnR18L45VEtQDVdgE_eJZEld6Bje4_NqSM-N_ezXwCVoj3Z21c-XOZPuxb-UZpfnKrfhUBYtLgCV22WoJH3M8myt0SwI6RJtEO67dwhE5WahFJRhsISikW4oxuiulx0PCq58GhirjHZNRf6w"></script>
+
+    <script async src="https://siteimproveanalytics.com/js/siteanalyze_6020828.js"></script>
+  </body>
+</html>
